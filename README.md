@@ -1,5 +1,5 @@
 # Login hipster simple
-
+Encontrara una imagen del diseño en la carpeta image con el nombre "vista.png"
 A new Flutter project.
 
 ## Getting Started
