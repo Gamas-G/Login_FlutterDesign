@@ -1,6 +1,7 @@
 # Login hipster simple
 Encontrara una imagen del diseño en la carpeta image con el nombre "vista.png"
 
+![ScreenShot](https://raw.github.com/{Gamas-G}/{Login_FlutterDesign}/{master}/{image/vista.png})
 A new Flutter project.
 
 ## Getting Started
