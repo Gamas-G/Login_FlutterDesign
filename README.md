@@ -1,7 +1,7 @@
 # Login hipster simple
 
 
-![ScreenShot](https://raw.github.com/Gamas-G/Login_FlutterDesign/master/image/vista.png)
+                                   ![ScreenShot](https://raw.github.com/Gamas-G/Login_FlutterDesign/master/image/vista.png)
 A new Flutter project.
 
 ## Getting Started
